@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://help.mewst.com/blog</id>
+    <title>ヘルプセンター Blog</title>
+    <updated>2024-01-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://help.mewst.com/blog"/>
+    <subtitle>ヘルプセンター Blog</subtitle>
+    <icon>https://help.mewst.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ほっとするソーシャルネットワーク『Mewst』をリリースしました]]></title>
+        <id>https://help.mewst.com/blog/2024-01-01-hello-world</id>
+        <link href="https://help.mewst.com/blog/2024-01-01-hello-world"/>
+        <updated>2024-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[よろしくお願いします]]></summary>
+        <content type="html"><![CDATA[<p>よろしくお願いします</p>]]></content>
+        <author>
+            <name>Shimba, Koji</name>
+            <uri>https://mewst.com/@shimbaco</uri>
+        </author>
+        <category label="announcement" term="announcement"/>
+    </entry>
+</feed>

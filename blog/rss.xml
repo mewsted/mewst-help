@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ヘルプセンター Blog</title>
+        <link>https://help.mewst.com/blog</link>
+        <description>ヘルプセンター Blog</description>
+        <lastBuildDate>Mon, 01 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[ほっとするソーシャルネットワーク『Mewst』をリリースしました]]></title>
+            <link>https://help.mewst.com/blog/2024-01-01-hello-world</link>
+            <guid>https://help.mewst.com/blog/2024-01-01-hello-world</guid>
+            <pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[よろしくお願いします]]></description>
+            <content:encoded><![CDATA[<p>よろしくお願いします</p>]]></content:encoded>
+            <category>announcement</category>
+        </item>
+    </channel>
+</rss>
